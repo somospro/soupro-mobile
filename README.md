@@ -1,10 +1,15 @@
-# soupro
+# Sou Pro - Mobile app
 
-A new Flutter project.
+> Projecto prático para a disciplina de Administração de Base de Dados - Universidade Metodista de Angola
 
-## Getting Started
+Encontre o melhor profissional para executar o teu serviço ou projecto, obtenha o melhor serviço que compara preços, recomende um profissional por uma experiência ou trabalho. Se você é profissional, anuncie gratuitamente e obtenha clientes em sua área.
 
-This project is a starting point for a Flutter application.
+Eu Sou Pro! E você?
+Junte-se a nós, via `https://agora.sou.pro`
+
+[Repositório](https://github.com/nelsonmfinda/soupro-api/) da API RESTful
+
+## Pré-requisitos
 
 A few resources to get you started if this is your first Flutter project:
 
